@@ -15,5 +15,4 @@ summary: A documentação para versões anteriores do Astra Trident está dispon
 Se você não estiver executando o Astra Trident 22,04, a documentação das versões anteriores estará disponível.
 
 * https://docs.netapp.com/us-en/trident-2201/index.html["Astra Trident 22,01"^]
-* https://docs.netapp.com/us-en/trident-2110/index.html["Astra Trident 21,10"^]
 
