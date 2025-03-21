@@ -3097,7 +3097,6 @@
   <block id="eb1f347fa6176ae2c9175df3bc414954" category="sidebar">Use o Astra Trident</block>
   <block id="cc4a0df2c635530d752308ab5a1c4b89" category="sidebar">Configurar um back-end do ANF</block>
   <block id="6c0abaa198495bc62a07a25b5120401b" category="sidebar">O Astra Trident é um provisionador e orquestrador de storage de código aberto mantido pela NetApp. Com ele, você cria volumes de storage para aplicações em contêiner gerenciadas pelo Docker e Kubernetes. Para obter informações completas sobre a versão, incluindo alterações na versão do patch, consulte https://docs.netapp.com/us-en/trident/trident-rn.html.</block>
-  <block id="dfc322d478fc59cd6375362d8dad7bc0" category="sidebar">Informações essenciais sobre o Kubernetes 1,25</block>
   <block id="1fe917b01f9a3f87fa2d7d3b7643fac1" category="sidebar">FAQ</block>
   <block id="312b0dc38b01ff32c1b2f5f81ee1ab2d" category="sidebar">Implante com o operador Trident</block>
   <block id="6a693eb5cd23e4e5743663c7edc37aed" category="sidebar">Implante o Astra Trident para Docker</block>
@@ -3109,4 +3108,5 @@
   <block id="874d8a5301794a9ca2aba132ac2460f3" category="sidebar">Kubernetes Hub</block>
   <block id="d59c00abbeaf33a9a094b3a69c563405" category="sidebar">NetApp.io</block>
   <block id="8f5cc6430613f1c12f36965050bb7197" category="sidebar">Discórdia</block>
+  <block id="9aba1139ac0174f6067d723ab428d43a" category="sidebar">Informações essenciais sobre o Kubernetes 1,24</block>
 </blocks>

@@ -10,7 +10,7 @@ indexpage:
     contêiner gerenciadas pelo Docker e Kubernetes. Para obter informações completas
     sobre a versão, incluindo alterações na versão do patch, consulte https://docs.netapp.com/us-en/trident/trident-rn.html.
   tiles:
-  - title: Informações essenciais sobre o Kubernetes 1,25
+  - title: Informações essenciais sobre o Kubernetes 1,24
     links:
     - title: Requisitos
       url: "/trident-get-started/requirements.html"
